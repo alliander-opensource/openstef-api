@@ -1,4 +1,3 @@
-==========
 OpenSTEF API
 ==================================================
 `openSTEF API` project exposes the functionality of the [openSTEF package](https://github.com/OpenSTEF) through an FASTApi based API.
