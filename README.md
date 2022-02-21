@@ -1,8 +1,14 @@
-==========
+<!--
+SPDX-FileCopyrightText: 2017-2022 Contributors to the OpenSTEF project <korte.termijn.prognoses@alliander.com>
+
+SPDX-License-Identifier: MPL-2.0
+-->
+
 OpenSTEF API
 ==================================================
-This project exposes the functionality of the openstef package through an FASTApi based API.
-This repo is very much a Work in Progress, and currently released for Sogno
+`openSTEF API` project exposes the functionality of the [openSTEF package](https://github.com/OpenSTEF) through an FASTApi based API.
+
+This repo is very much a Work in Progress, and is currently released for the collaboration with the [Sogno project](https://github.com/sogno-platform).
 
 ## Example data files can be obtained in the [openstef-api-example-data](https://github.com/alliander-opensource/openstef-api-example-data) repo
 
@@ -70,6 +76,11 @@ app
 ├── app_settings.py                     (APP and API settings)
 └── main.py                             (Main entry point to initialize and start the app)
 ```
+## License
+This project is licensed under the Mozilla Public License, version 2.0.
 
-# License
-This project is licensed under the Mozilla Public License, version 2.0 - see LICENSE for details.
+## Contributing
+Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [CONTRIBUTING.md](CONTRIBUTING.md) and [PROJECT_GOVERNANACE.md](PROJECT_GOVERNANCE.md) for details on the process for submitting pull requests to us.
+
+## Contact
+Please read [SUPPORT.md](SUPPORT.md) for how to connect and get into contact with the OpenSTEF project
