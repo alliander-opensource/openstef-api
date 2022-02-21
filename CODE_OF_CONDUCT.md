@@ -1,7 +1,7 @@
 <!--
-SPDX-FileCopyrightText: 2017-2021 Alliander N.V. <korte.termijn.prognoses@alliander.com>
+SPDX-FileCopyrightText: 2014 Coraline Ada Ehmke
 
-SPDX-License-Identifier: MPL-2.0
+SPDX-License-Identifier: CC-BY-4.0
 -->
 
 # Code of Conduct
